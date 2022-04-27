@@ -19,4 +19,6 @@ sebuah program sederhana, yaitu filter table. dimana, program ini akan memfilter
 
 ### preview
 
+![result](https://github.com/candradwicahyo/filter-table/blob/master/20220427_111151.jpg)
+
 > dibuat oleh **candra dwi cahyo**
